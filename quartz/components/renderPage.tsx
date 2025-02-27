@@ -221,7 +221,7 @@ export function renderPage(
   const Body = BodyConstructor()
 
   const LeftComponent = (
-    <div class="left sidebar">
+    <div class="left sidebar" style="flex-direction: column">
       {left.map((BodyComponent) => (
         <BodyComponent {...componentData} />
       ))}
