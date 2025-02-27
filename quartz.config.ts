@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Ben Quigley",
-    pageTitleSuffix: "",
+    pageTitle: "signmaker.dev",
+    pageTitleSuffix: " | signmaker.dev",
     enableSPA: true,
     enablePopovers: true,
     analytics: {

@@ -1,5 +1,5 @@
 ---
-title: About
+title: Ben Quigley
 date: '2023-09-23'
 save_as: index.html
 url: index.html
